@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "genius-car-mechanics"
-  }
+    "default": "genius-car-mechanic-3ad07",
+    "development": "genius-car-mechanic-3ad07"
+  },
+  "targets": {},
+  "etags": {}
 }
